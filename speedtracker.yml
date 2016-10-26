@@ -37,7 +37,7 @@
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-encryptionKey: "be50eb75ac3bcfc1dc76691e"
+encryptionKey: "93c2ed07239acca980f9"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -50,7 +50,7 @@ encryptionKey: "be50eb75ac3bcfc1dc76691e"
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-wptKey: "cb4dec7df33acf949d27641808399d4111bd8af107ae216ec57016a7ffd519e6658f"
+wptKey: "a28db65624cc9aab80ff12e875f58aa4912ad5fa6be6a66a9a5eb78ca58613f1810f"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -82,10 +82,10 @@ wptKey: "cb4dec7df33acf949d27641808399d4111bd8af107ae216ec57016a7ffd519e6658f"
 #alerts:
 #  emailAlert:
 #    type: "email"
-#    recipients: ["ec06b52ce56ed8d7ce7c344d0c35eb4f1ca9d1a856b37637c9"]
+#    recipients: ["85c6ef0732988de8d3a442bd71f9fcaa9c3e8ea33afbf13396"]
 #  otherEmailAlert:
 #    type: "email"
-#    recipients: ["ec06b52ce56ed8d7ce7c344d0c35eb4f1ca9d1a856b37637c9", "ENCRYPTED_EMAIL_ADDRESS3"]
+#    recipients: ["85c6ef0732988de8d3a442bd71f9fcaa9c3e8ea33afbf13396", "ENCRYPTED_EMAIL_ADDRESS3"]
 #  slackAlert:
 #    type: "slack"
 #    hookUrl: "ENCRYPTED_SLACK_HOOK_URL"
