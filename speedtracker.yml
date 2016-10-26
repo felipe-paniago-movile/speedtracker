@@ -37,7 +37,7 @@
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-encryptionKey: "YOUR_ENCRYPTED_KEY"
+encryptionKey: "be50eb75ac3bcfc1dc76691e"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -50,7 +50,7 @@ encryptionKey: "YOUR_ENCRYPTED_KEY"
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-wptKey: "YOUR_ENCRYPTED_WEBPAGETEST_KEY"
+wptKey: "cb4dec7df33acf949d27641808399d4111bd8af107ae216ec57016a7ffd519e6658f"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -82,10 +82,10 @@ wptKey: "YOUR_ENCRYPTED_WEBPAGETEST_KEY"
 #alerts:
 #  emailAlert:
 #    type: "email"
-#    recipients: ["ENCRYPTED_EMAIL_ADDRESS"]
+#    recipients: ["ec06b52ce56ed8d7ce7c344d0c35eb4f1ca9d1a856b37637c9"]
 #  otherEmailAlert:
 #    type: "email"
-#    recipients: ["ENCRYPTED_EMAIL_ADDRESS2", "ENCRYPTED_EMAIL_ADDRESS3"]
+#    recipients: ["ec06b52ce56ed8d7ce7c344d0c35eb4f1ca9d1a856b37637c9", "ENCRYPTED_EMAIL_ADDRESS3"]
 #  slackAlert:
 #    type: "slack"
 #    hookUrl: "ENCRYPTED_SLACK_HOOK_URL"
